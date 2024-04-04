@@ -98,9 +98,6 @@ section {
    overflow: hidden;
       
 }
-.last{
-    
-}
 
 #version {
     color: red;
@@ -154,10 +151,4 @@ hr{
     border: 0.5px solid ;
     color: rgb(150, 150, 151);
    
-}
-
-@media minmax(400px){
-    h1 {
-        fo
-    }
 }
